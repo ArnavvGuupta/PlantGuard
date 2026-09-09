@@ -279,7 +279,8 @@ Prediction quality can be affected by:
 
 ## 📸 Demo
 
-> Add screenshots or a short GIF of the Streamlit application here.
+<img width="707" height="1023" alt="image" src="https://github.com/user-attachments/assets/1619625d-c98a-40a1-a2ae-fc33d1f7fbd1" />
+
 
 ```text
 ┌─────────────────────────────────────┐
